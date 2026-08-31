@@ -1,169 +1,71 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.jpg" alt="Adib Ibne Sazzad banner" width="100%" />
+</p>
 
-<img src="./assets/profile-banner.png" alt="Adib Ibne Sazzad profile banner" width="100%"/>
+# Hi, I'm Adib 👋💻
 
-<br>
+I'm a Computer Science student at Independent University Bangladesh (IUB), five semesters in, who still gets a small kick out of code that runs on the first try (it rarely does). I like problems that make me think sideways — whether that's an algorithm, a football drill, or getting a good shot lined up.
 
-<a href="https://github.com/AdibIbneSazzad">
-  <img src="https://img.shields.io/badge/GitHub-AdibIbneSazzad-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="mailto:adib070121@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/adib-ibne-sazzad-64620b432/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/adib_sazzad">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+I'm an active member of the **Jukti Club of CSE** and the **IUB Football Club**, and I volunteer with orientation programs for incoming students on campus.
 
-</div>
-
----
-
-## 👋 About Me
-
-Hi, I'm **Adib Ibne Sazzad**, a Computer Science & Engineering undergraduate at **Independent University, Bangladesh (IUB)**.
-
-I'm interested in **problem solving, programming, software development, and learning new technologies**. I enjoy turning ideas into code, practicing algorithms, and improving a little every day.
-
-- 🎓 CSE Undergraduate at IUB
-- 💻 Currently strengthening my programming fundamentals
-- 🧩 Enjoy solving programming and algorithmic problems
-- 🌱 Learning by building projects and experimenting
-- 🚀 Always curious about how things work under the hood
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,html,git,github,vscode&perline=7" alt="Programming and development tools"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/repos/AdibIbneSazzad?style=for-the-badge&logo=github&label=TOTAL%20REPOS" alt="Total repositories"/>
-
-<img src="https://img.shields.io/github/stars/AdibIbneSazzad?style=for-the-badge&logo=github&label=STARS%20GOT" alt="Stars received"/>
-
-<img src="https://komarev.com/ghpvc/?username=AdibIbneSazzad&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
-
-<br><br>
-
-<a href="https://github.com/AdibIbneSazzad">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdibIbneSazzad&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Adib's GitHub statistics"/>
-</a>
-
-<a href="https://github.com/AdibIbneSazzad">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibIbneSazzad&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Adib's most used languages"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AdibIbneSazzad&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibIbneSazzad&theme=github_dark" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## 📅 Commit Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdibIbneSazzad&theme=github-compact&hide_border=true&area=true" alt="GitHub commit graph"/>
-
-</div>
-
----
-
-## 🐱 My Coding Companion
-
-<div align="center">
-
-<img src="./assets/cat.png" width="210" alt="Cute coding cat"/>
-
-<br><br>
-
-<i>Debugging is easier with a tiny coding companion. 🐾</i>
-
-</div>
-
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AdibIbneSazzad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdibIbneSazzad&repo=AdibIbneSazzad&theme=github_dark&hide_border=true" alt="GitHub profile repository"/>
-</a>
-
-</div>
+### 🧩 Off the keyboard
+⚽ Football &nbsp;·&nbsp; 📷 Photography &nbsp;·&nbsp; 🎤 Hosting
 
 <br>
 
-### 🚀 More Projects Coming Soon
+### 🛠️ Skills
 
-I'm currently learning, experimenting, and building new projects.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4C7CF0?style=for-the-badge&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-4C7CF0?style=for-the-badge&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1a2331?style=for-the-badge&logoColor=white)
+![Logical Reasoning](https://img.shields.io/badge/Logical%20Reasoning-1a2331?style=for-the-badge&logoColor=white)
+![English](https://img.shields.io/badge/English-1a2331?style=for-the-badge&logoColor=white)
+![Bangla](https://img.shields.io/badge/Bangla-1a2331?style=for-the-badge&logoColor=white)
 
-As I create more repositories, I'll feature my best work here.
+### 📚 Currently learning
 
----
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FFB648?style=for-the-badge&logoColor=1a2331)
+![Web Dev](https://img.shields.io/badge/Web%20Development%20Basics-FFB648?style=for-the-badge&logoColor=1a2331)
 
-## 🎯 What I'm Working On
+### 🎓 Education
 
-<div align="center">
+- 🏫 **Independent University Bangladesh** — Bachelor of Science, Computer Science *(currently pursuing)*
+- 🏫 **The Millennium Stars School & College** — High School, Science
 
-| 💻 Programming | 🧩 Problem Solving |
-|:---:|:---:|
-| Strengthening fundamentals | Practicing algorithms |
-| Building projects | Improving logical thinking |
+### 💻 A few things I've built
 
-| 🌱 Learning | 🚀 Exploring |
-|:---:|:---:|
-| New technologies | Different areas of CSE |
-| Learning by doing | Turning ideas into code |
+- **Tic-Tac-Toe (Python)** — a command-line game with turn handling and win-state detection.
+- **Distance Calculator (Python)** — turns a math formula on paper into a working tool.
+- **Route Calculator (Python)** — compares different algorithms to find the best path between points.
 
-</div>
+<br>
 
----
+<table>
+<tr>
+<td width="140">
+  <img src="./cat.png" width="120" alt="coding cat" />
+</td>
+<td>
 
-## 🧠 Currently Exploring
+### 🌍 Find me around the web
 
-```text
-Programming
-    ↓
-Problem Solving
-    ↓
-Algorithms & Data Structures
-    ↓
-Software Development
-    ↓
-New Technologies
+- Connecting on [LinkedIn](https://www.linkedin.com/in/adib-ibne-sazzad-64620b432) 💼
+- Sharing moments on [Instagram](https://www.instagram.com/adib_sazzad?igsi=cGc3ZDBzMnR4Ynox) 📷
+- Around on [Facebook](https://www.facebook.com/share/1NzL5K5Wud/) 👋
+- Reach me at **adib070121@gmail.com** ✉️
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!--
+  Replace YOUR_GITHUB_USERNAME below with your actual GitHub username
+  once this README lives in your profile repo.
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+</p>
