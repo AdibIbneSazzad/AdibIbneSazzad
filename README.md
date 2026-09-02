@@ -1,6 +1,6 @@
-# Hi, I'm Adib Ibne Sazzad 👋💻
+# Hi, I'm Adib Ibne Sazzad 👋
 
-![Banner](./assets/banner.png)
+![Banner](./asset/banner.png)
 
 Computer Science Undergraduate | Problem Solver | Developer
 
