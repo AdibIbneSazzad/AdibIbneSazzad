@@ -1,6 +1,6 @@
-# Hi, I'm Adib Ibne Sazzad 👋
+# Hi, I'm Adib Ibne Sazzad 👋💻
 
-![Banner](./asset/banner.png)
+![Banner](./assets/banner.png)
 
 Computer Science Undergraduate | Problem Solver | Developer
 
@@ -15,6 +15,8 @@ Some of the projects I've worked on include:
 Route Calculator — shortest-path calculation using Dijkstra's algorithm
 Distance Calculator — mathematical and algorithmic distance calculation
 Tic-Tac-Toe — two-player game built with Python
+
+<img src="./assets/coding-cat.png" width="150" align="right"/>
 
 🌱 Currently
 
