@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdibIbneSazzad&color=7f00ff&style=flat-square)
 
-<br clear="right"/> <img src="./assets/profile-pic.jpg" width="180" align="left"/>
+<br clear="right"/> <img src="./assets/profile-pic.jpeg" width="140" align="left"/>
 
 I'm a Computer Science undergraduate passionate about programming, algorithms, problem solving, and software development.
 I enjoy turning ideas into working projects, learning how things work under the hood, and continuously improving my programming fundamentals.
