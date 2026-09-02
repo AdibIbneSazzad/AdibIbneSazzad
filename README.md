@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=rounded&color=0:7f00ff,100:00c9ff&height=200&section=header&text=Hi,%20I'm%20Adib%20Ibne%20Sazzad&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Problem+Solver+%7C+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Problem+Solver+%7C+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdibIbneSazzad&color=7f00ff&style=flat-square)
 
